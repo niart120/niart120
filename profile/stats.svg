@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">niart120&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 36, Total Commits  : 4065, Total PRs: 690, Total Issues: 112, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 36, Total Commits  : 4066, Total PRs: 690, Total Issues: 113, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.86978920899844;
+        stroke-dashoffset: 63.84239117885573;
       }
     }
   
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >112</text>
+      >113</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
